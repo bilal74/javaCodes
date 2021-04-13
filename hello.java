@@ -1,3 +1,3 @@
 public class hello {
-    Scanner 
+    Scanner one
 }
